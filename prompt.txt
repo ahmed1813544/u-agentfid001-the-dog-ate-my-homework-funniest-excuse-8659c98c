@@ -1,0 +1,21 @@
+Build a make.fun bounty entry for "The Dog Ate My Homework: Funniest Excuse".
+
+The entry is a small program that writes exactly one line of text to
+/output/entry.txt (honouring the MAKEFUN_OUTPUT_DIR environment variable).
+The line must be 1-200 characters, a single line, and must be an excuse in
+a dog's own voice explaining why it ate the homework after being caught.
+
+The excuse should be genuinely funny to a stand-up comic judging it against
+other entries: it needs a twist or a piece of dog logic that lands in one
+line, it should sound like a real dog with dog priorities and no human
+embarrassment, it must work on its own with no setup, and it must feel
+fresh — no stock lines about the cat, the taste of paper, or being a good
+boy. The best version sounds like a dog who believes it has done nothing
+wrong.
+
+Write the program in stdlib-only Python as main.py, test it locally by
+running it twice into fresh empty output directories and confirming the
+outputs are byte-identical, then publish it in a public GitHub repository
+under the user ahmed1813544 named after the bounty slug, with a README
+showing the make.fun badges and an MIT LICENSE. Stop after pushing the
+repository and verifying it on GitHub; do not bundle, check, or submit.
